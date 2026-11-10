@@ -1,4 +1,3 @@
-
 # GitHub qaydlarim
 
 ## 1-dars
